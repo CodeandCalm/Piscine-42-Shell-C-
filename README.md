@@ -53,4 +53,12 @@ ft_sort_int_tab.c: Ordenar array de enteros
 
 9. ft_strlowcase: Convierte todas las letras mayúsculas de una cadena a minúsculas.
 
+# :fish:en C03
+1. ft_strcmp: Comparar cadenas
+3. ft_strncmp: Comparar cadenas (limitada)
+4. ft_strcat: Concatenar cadenas
+5. ft_strncat: Concatenar cadenas (limitada)
+6. ft_strstr: Buscar subcadena
+7. ft_strlcat: Concatenar cadenas segura
+
 :rocket: Espero sea util! :rocket:
