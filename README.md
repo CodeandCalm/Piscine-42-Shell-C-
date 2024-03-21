@@ -1,39 +1,17 @@
 Ejercicios realizados de la piscina 42 madrid (lenguaje C) A continuacion describo las funciones en C01 y C02 y sus tareas (porque estas fueron las mas utiles para mi) :sunglasses:
 
-# :fish:En c01 : 
-ft_strcpy.c: Copiar cadena
+# :fish:En c01 OPERADORES
+ft_ft.c
+ft_ultimate_ft.c: related to ft_ft
+ft_swap.c: Intercambiar (Swap)
+ft_div_mod.c: Dividir y módulo (Divide & Modulo)
+ft_ultimate_div_mod.c:  related to ft_div_mod
+ft_putstr.c: Imprimir cadena (Print String)
+ft_strlen.c: Longitud cadena (String Length)
+ft_rev_int_tab.c: Invertir entero (Reverse Integer Array)
+ft_sort_int_tab.c: Ordenar entero (Sort Integer Array)
 
-ft_strncpy.c: Copiar cadena (limitada)
-
-ft_str_is_alpha.c: Es alfa?
-
-ft_str_is_numeric.c: Es numérico?
-
-ft_str_is_lowercase.c: Es minúscula?
-
-ft_str_is_uppercase.c: Es mayúscula?
-
-ft_str_is_printable.c: Es imprimible?
-
-ft_strupcase.c: Convertir a mayúsculas
-
-ft_strlowcase.c: Convertir a minúsculas
-
-ft_swap.c: Intercambiar
-
-ft_div_mod.c: División y módulo
-
-ft_ultimate_div_mod.c: Desconocido (similar a ft_div_mod)
-
-ft_putstr.c: Imprimir cadena
-
-ft_strlen.c: Longitud de la cadena
-
-ft_rev_int_tab.c: Revertir array de enteros
-
-ft_sort_int_tab.c: Ordenar array de enteros
-
-# :fish:en C02
+# :fish:en C02 CADENAS
 
 1. ft_strcpy: Copia una cadena a otra.
 
@@ -53,7 +31,7 @@ ft_sort_int_tab.c: Ordenar array de enteros
 
 9. ft_strlowcase: Convierte todas las letras mayúsculas de una cadena a minúsculas.
 
-# :fish:en C03
+# :fish:en C03 COMPARAR Y CONCATENAR
 1. ft_strcmp: Comparar cadenas
 3. ft_strncmp: Comparar cadenas (limitada)
 4. ft_strcat: Concatenar cadenas
