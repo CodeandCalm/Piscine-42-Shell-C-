@@ -1,4 +1,4 @@
-Ejercicios realizados de la piscina 42 madrid (lenguaje C) A continuacion describo las funciones en C01 y C02 y sus tareas (porque estas fueron las mas utiles para mi) :sunglasses:
+Ejercicios realizados de la piscina 42 madrid (lenguaje C) A continuacion describo las funciones en C01 y C02 y sus comportamientos (las mas utiles para mi) :sunglasses:
 
 # :fish:En c01 OPERADORES
 ft_ft.c
